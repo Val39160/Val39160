@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=val39160&label=Profile%20views&color=0e75b6&style=flat" alt="val39160" /> </p>
 
-- 🔭 I’m currently working on **Gites les Glycines**
+- 🔭 I’m currently working on the project : **Gites les Glycines** on Ruby on Rails
 
 - 🌱 Having already learned some programming languages at Le Wagon like **Javascript, html, css, bootstrap, Ruby on Rails**,  i’m currently learning **React.js** on Openclassroom to broaden my skill set.
 
