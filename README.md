@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **valentin.corger@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/valentin-corger/](https://www.linkedin.com/in/valentin-corger/)
+- 📄 Learn about my experiences [https://www.linkedin.com/in/valentin-corger/](https://www.linkedin.com/in/valentin-corger/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
