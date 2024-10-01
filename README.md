@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on the project : **Gites les Glycines** on Ruby on Rails and **BroussonBNB** with @Ciaarans on Ruby on Rails 
 
-- 🌱 Having already learned some programming languages at Le Wagon like **Javascript, html, css, bootstrap, Ruby on Rails**,  i’m currently learning **React.js** on Openclassroom to broaden my skill set.
+- 🌱 Having already learned some programming languages at Le Wagon like **Javascript, html, css, bootstrap, Ruby on Rails**,  i’m currently learning **Vue.js** on Udemy to broaden my skill set.
 
 - 👨‍💻 All of my projects are available at https://www.valentin-corger.site/
 
